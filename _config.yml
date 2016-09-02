@@ -5,8 +5,8 @@ url: "http://nous.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: NOUS
-  avatar: avatar.png
+  title: Nous
+  avatar: avatar.jpg
   gravatar: # Email MD5 hash
   description: "사회학, 과학, 기술, 혁신, 정보, 인터넷, 오픈소스, 소프트웨어 등에 관심있는 개인 블로그입니다. / 김연철 (Yeunchul Kim)" # used by search engines
 
@@ -21,13 +21,13 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "yeunchul.kim@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "nous/nous.github.io"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,12 +37,12 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "yeunchul_kim"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-36810561-7"
   disqus_shortname:
   katex: true # Enable if using math markup
 
@@ -63,7 +63,7 @@ theme_settings:
 
 # PAGINATION
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -72,3 +72,5 @@ sass:
   sass_dir: _sass
   style: :compressed
 gems: [jekyll-paginate]
+  - jekyll-sitemap
+  - jekyll-feed
