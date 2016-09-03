@@ -18,18 +18,41 @@
 	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
 	<!-- Font Awesome -->
+	<!--
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	-->
 
 	<!-- Google Fonts -->
+	<!--
 	{% if site.theme_settings.google_fonts %}
 	<link href="//fonts.googleapis.com/css?family={{ site.theme_settings.google_fonts }}" rel="stylesheet" type="text/css">
 	{% endif %}
+	-->
 
 	<!-- KaTeX -->
+	<!--
 	{% if site.theme_settings.katex %}
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">
 	<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.js"></script>
 	{% endif %}
+	-->
+
+    <!-- Open External Link in New Tab -->
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="/js/com.alybadawy.external_links.js"></script>
+
+	<!-- Bigfoot footnote -->
+	<!-- use jquery 1.11.3.min above -->
+	<script type="text/javascript" src="/js/bigfoot.min.js"></script>
+	<script type="text/javascript">
+	    var bigfoot = $.bigfoot(
+                       {
+                       actionOriginalFN: "ignore",
+                       positionContent: "true"
+                       }
+        );
+	</script>
+	<link href="/css/bigfoot-number.css" rel="stylesheet">
 
 	<!-- Google Analytics -->
 	{% if site.theme_settings.google_analytics %}
@@ -43,4 +66,11 @@
 	ga('send', 'pageview');
 	</script>
 	{% endif %}
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@yeunchul_kim" />
+	<meta name="twitter:title" content="{{ page.title }}" />
+	<meta name="twitter:description" content="{{ page.excerpt | escape }}" />
+	<meta name="twitter:image" content="{{ site.url }}/img/avatar.png" />
 </head>
