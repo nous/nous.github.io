@@ -14,7 +14,10 @@ article {
     @extend %link-hover;
   }
   .footnotes {
-    font-size: 0.9em;
+    font-size: 0.8em;
+    border-top: 2px dotted #999;
+    margin: 2.5em 0 0 0;
+    padding: 1em 0 0 1em;
   }
 }
 header {
@@ -29,6 +32,9 @@ header {
     text-transform: uppercase;
   }
 }
+article p.meta {
+  text-align: center;
+  }
 .feature-image {
   padding: 0%;
   .post-link {
@@ -47,6 +53,11 @@ header {
     @extend %padding-regular;
   }
 }
+
+img.alignleft{float:left; margin:2em 0;}
+img.alignright{float:right; margin:2em 0;}
+img.aligncenter{display:block; margin:2em auto;}
+
 // Post navigation
 #post-nav {
   width:100%;
