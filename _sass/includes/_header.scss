@@ -16,7 +16,11 @@
   src: url(/font/unknowngothicwoff.woff) format('woff');
 }
 
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@font-face {
+  font-family: NanumBarunGothicLightwoff;
+  font-style: normal;
+  src: url(/font/NanumBarunGothicLightwoff) format('woff');
+}
 
 .site-header {
   @extend %padding-small;
