@@ -43,6 +43,32 @@
     margin-right: 1em;
   }
 
+  .cse {
+    float: right;
+    margin-top: 0.4em;
+    font-family: arial, unknowngothicwoff, san-serif;
+    font-size: 1.1em;
+    font-weight: bold;
+  }
+
+  .cse input#query {
+    border-width: 0 0 2px 0;
+    outline: none;
+    width: 80%;
+    margin-right: -5em;
+    font-size: 80%;
+    font-weight: normal;
+  }
+
+  .cse button.gbtn {
+    border: 1px;
+    outline: none;
+    background: url(/img/search.png) center center no-repeat;
+    float: right;
+    height: 25px;
+    width: 25px;
+  }
+
   .site-title {
     float: left;
     font-weight: bold;
