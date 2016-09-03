@@ -16,6 +16,8 @@
   src: url(/font/unknowngothicwoff.woff) format('woff');
 }
 
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
 .site-header {
   @extend %padding-small;
   background: $brand-color;
