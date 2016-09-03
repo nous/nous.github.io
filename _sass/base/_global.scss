@@ -86,7 +86,7 @@ dd {
     margin-left: 2em;
 }
 p, ol, ul, dl, .math-display {
-  line-height: 1.5;
+  line-height: 1.65em;
   margin-bottom: 1em;
 }
 // KaTeX math display
@@ -99,8 +99,20 @@ li > ul, li > ol {
     margin-bottom: 0;
     margin-left: 1em;
 }
+p, li {
+  text-align: justify;
+}
 ol, ul {
   list-style-position: inside;
+}
+.post-content ol, ul {
+  margin-left: 2em;
+}
+.footnotes ol {
+  margin: 0;
+}
+.footnotes ol li {
+  margin-left: 0.3em;
 }
 hr {
   border: 0;
