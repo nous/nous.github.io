@@ -26,5 +26,5 @@ feature-img: "img/post_feature_img_writing.jpg"
 왜 저렇게 되었냐고? 요즘 대학생들이 다 착하고 열심히 노력해서 그런 것이다. 그것이 전부다.
 
 [book]: http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=47383477
-[TV]: http://www.kbs.co.kr/1tv/sisa/goodinsight/view/vod2/2428151_104606.html
+[TV]: http://www.kbs.co.kr/1tv/sisa/goodinsight/favorvod/view.html?cid=70000000000774
 [EBS]: https://youtu.be/PXBVukZ3cgQ
