@@ -14,6 +14,16 @@
 		</h1>
 	</div>
 
+    <!-- Google Search Link -->
+	<div class="cse">
+		<!--
+	    <a href="https://cse.google.co.kr/cse/publicurl?cx=016763716178250373545:qnb3pggnuki">Search</a>
+		-->
+		<input type="text" id="query" name="query" class="gquery" value="" onkeypress="if (event.keyCode == 13){javascript:if(query.value!=''){window.open(url.value+query.value);}}" />
+		<button class="gbtn" onClick="javascript:if(query.value!=''){window.open(url.value+query.value);}" target="_blank"></button>
+		<input type="hidden" value="https://www.google.co.kr/search?q=site%3Anous.github.io%20" id="url" name="url" />
+	</div>
+
 	<!--
 	<nav class="site-nav">
 		<ul>
