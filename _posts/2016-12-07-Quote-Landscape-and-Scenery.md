@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 인용 풍경과 장면
+title: 인용&#58; 풍경과 장면
 feature-img: "img/post_feature_img_pattern_01.png"
 ---
 
