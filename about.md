@@ -16,6 +16,7 @@ feature-img: "img/about_feature_img.jpg"
 - [RSS Feed][Rss]
 - [Mail][Mail]
 - [Google+][G+]
+- [Flickr][Flickr]
 - [Twitter][Twitter]
 
 ## 저작권
@@ -28,6 +29,7 @@ feature-img: "img/about_feature_img.jpg"
 [Mail]: mailto:yeunchul.kim@gmail.com
 [G+]: https://google.com/+YeunchulKim
 [Twitter]: https://twitter.com/yeunchul_kim
+[Flickr]: https://flickr.com/photos/yeunchul-kim/
 [Rss]: http://nous.github.io/feed.xml
 [Jekyll]: http://jekyllrb.com
 [Type]: https://rohanchandra.github.io/project/type/
