@@ -10,7 +10,7 @@ feature-img: "img/archive_feature_img.jpg"
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
            {% unless forloop.first %}</ul>{% endunless %}
-           <h1>{{ currentDate }}년</h1>
+           <h2>{{ currentDate }}년</h2>
            <ul>
            {% assign myDate = currentDate %}
        {% endif %}
