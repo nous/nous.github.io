@@ -17,7 +17,7 @@ theme_settings:
     <p><br /></P>
   header_text_feature_image: "img/main_feature_img.jpg"
   footer_text: >
-    <a href="http://nous.github.io/about/">About</a> / <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+    <a href="http://nous.github.io/about/">About</a><span class="seperator">|</span><a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
@@ -50,9 +50,9 @@ theme_settings:
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+  str_next: "다음"
+  str_prev: "이전"
+  str_continue_reading: "계속 읽기"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
