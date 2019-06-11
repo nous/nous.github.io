@@ -17,7 +17,7 @@ theme_settings:
     <p><br /></P>
   header_text_feature_image: "img/main_feature_img.jpg"
   footer_text: >
-    <a href="http://nous.github.io/about/">About</a><span class="seperator">|</span><a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+    <a href="http://nous.github.io/about/">About</a><span class="seperator">|</span><a href="http://jekyllrb.com">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false

@@ -15,8 +15,6 @@ feature-img: "img/about_feature_img.jpg"
 - [Nous Blog][Nous]
 - [RSS Feed][Rss]
 - [Mail][Mail]
-- [Google+][G+]
-- [Flickr][Flickr]
 - [Twitter][Twitter]
 
 ## 저작권
@@ -27,10 +25,8 @@ feature-img: "img/about_feature_img.jpg"
 [Nous]: http://nous.github.io
 [Profile]: https://github.com/nous
 [Mail]: mailto:yeunchul.kim@gmail.com
-[G+]: https://google.com/+YeunchulKim
 [Twitter]: https://twitter.com/yeunchul_kim
-[Flickr]: https://flickr.com/photos/yeunchul-kim/
 [Rss]: http://nous.github.io/feed.xml
 [Jekyll]: http://jekyllrb.com
-[Type]: https://rohanchandra.github.io/project/type/
+[Type]: https://github.com/rohanchandra/type-theme
 [MIT]: https://en.wikipedia.org/wiki/MIT_License
