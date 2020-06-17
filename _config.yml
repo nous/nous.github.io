@@ -8,7 +8,7 @@ theme_settings:
   title: Nous
   # avatar: avatar.jpg
   gravatar: # Email MD5 hash
-  description: "사회학, 과학, 기술, 혁신, 정보, 인터넷, 오픈소스, 데이터 사이언스, 소프트웨어 등에 관심있는 개인 블로그입니다. / 김연철 (Yeunchul Kim)" # used by search engines
+  description: "김연철(Yeunchul Kim)의 개인 블로그입니다. #사회학 #STS" # used by search engines
 
   # Header and footer text
   header_text: >
