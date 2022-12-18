@@ -6,7 +6,7 @@ feature-img: "img/about_feature_img.jpg"
 ---
 ## 소개
 
-- 이곳은 김연철(Yeunchul Kim)의 개인 블로그입니다.
+- 이곳은 저 혼자 글을 쓰는 개인 블로그입니다.
 - [Jekyll][Jekyll]과 [Type Theme][Type]을 사용합니다.
 - 우수한 도구를 간편하게 사용할 수 있도록 해주신 개발자분들께 감사합니다.
 
@@ -14,7 +14,6 @@ feature-img: "img/about_feature_img.jpg"
 
 - [Nous Blog][Nous]
 - [RSS Feed][Rss]
-- [Mail][Mail]
 - [Twitter][Twitter]
 
 ## 저작권
@@ -24,7 +23,6 @@ feature-img: "img/about_feature_img.jpg"
 
 [Nous]: http://nous.github.io
 [Profile]: https://github.com/nous
-[Mail]: mailto:yeunchul.kim@gmail.com
 [Twitter]: https://twitter.com/yeunchul_kim
 [Rss]: http://nous.github.io/feed.xml
 [Jekyll]: http://jekyllrb.com
