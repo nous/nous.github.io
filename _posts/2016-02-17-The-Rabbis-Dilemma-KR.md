@@ -78,7 +78,7 @@ feature-img: "img/post_feature_img_writing_sequencing.jpg"
 [wiki]: https://en.wikipedia.org/wiki/Dor_Yeshorim
 [Rosen2003]: http://www.jstor.org/stable/43152029
 [George2004]: https://www.newscientist.com/article/mg18124345-400-the-rabbis-dilemma/
-[OriginalText]: http://j.mp/1SQDGXd
+[OriginalText]: https://docs.google.com/document/d/1HNGwraEAdskOHBBYedwb336o8-ULJi8oCfoPdn-hVbE/edit?usp=sharing
 [video]: https://www.youtube.com/watch?v=BLmQbsYkb-8
 [Ashkenazi]: http://100.daum.net/encyclopedia/view/b14a1819a
 [lysosome]: http://100.daum.net/encyclopedia/view/24XXXXX71665
